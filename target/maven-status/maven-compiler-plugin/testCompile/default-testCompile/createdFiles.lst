@@ -1,0 +1,3 @@
+com\webform\automation\pages\Hooks.class
+com\webform\automation\runners\ApiTestRunner.class
+com\webform\automation\runners\UiTestRunner.class

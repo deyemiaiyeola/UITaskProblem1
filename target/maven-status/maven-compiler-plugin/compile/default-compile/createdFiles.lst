@@ -1,0 +1,8 @@
+com\webform\automation\pages\Hooks.class
+com\webform\automation\App.class
+com\webform\automation\pages\WebFormPage.class
+com\webform\automation\config\TestConfig.class
+com\webform\automation\pages\OldestPersonApiSteps.class
+com\webform\automation\runners\ApiTestRunner.class
+com\webform\automation\pages\WebFormSteps.class
+com\webform\automation\hooks\TestHooks.class

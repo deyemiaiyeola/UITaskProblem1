@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.webform.automation.runners.UiTestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.63 s -- in com.webform.automation.runners.UiTestRunner
